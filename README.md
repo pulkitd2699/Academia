@@ -1,5 +1,5 @@
 # Academia
-## A walk through of all the things I cracked up while being in college
+### A walk through of all the things I cracked up while being in college
 
 1. *Operating System*
 #### CPU Scheduling Algorithms
